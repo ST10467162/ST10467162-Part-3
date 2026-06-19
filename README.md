@@ -5,22 +5,25 @@ ST10467162
 WEDE5020
 Project Proposal
  
+Table of contents
+Table of Contents
+Website choice	3
+Organisation Description	3
+Reason for Choosing the Organisation	4
+Website Goals and Objectives	5
+KPIs to measure success	7
+Timeline and Milestones	11
+Website Budget	11
+Website Assets	12
+Technology Stack	14
+Hosting and Domain Name	16
+WEBSITE PAGES AND CONTENT	17
+Reference List	25
+
 
 
  
-Table of Content
 
-1.	Website Choice                                          Page 3
-2.	Business Name                                           Page 3
-3.	Business Description                              Page 3 - 4
-4.	Reason for choosing the business   Page 4
-5.	Website Goals and Objectives           Page 5-6
-6.	KPIs to measure success                      Page 7-10
-7.	Timeline and Milestones                       Page 11
-8.	Website Budget                                           Page 11
-9.	Website Assets                                           Page 12-13
-10 Website Page and Content                 Page 14-17
-11 Reference List                                            Page 18
  
 Website Development Project 
 Website choice 
